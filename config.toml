@@ -1,0 +1,4 @@
+baseURL = "http://openindustry.in/"
+languageCode = "en-us"
+title = "Open Industry Network"
+theme = "ananke"
