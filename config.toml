@@ -1,4 +1,7 @@
 baseURL = "http://openindustry.in/"
 languageCode = "en-us"
 title = "Open Industry Network"
+
+publishDir = "docs"
 theme = "ananke"
+relativeURLs = true
